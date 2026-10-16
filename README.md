@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hidden-Seed  
+# 👋 Hi, I'm Hidden-Seed
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=Hidden-Seed&label=PROFILE+VIEWS&style=flat&color=blue">
@@ -8,6 +8,9 @@
 </p>
 
 🚀 **Research Interests**: Computer Architecture | Parallel Computing | Compute-in-Memeory | RISC-V
+
 🎓 **Affiliation**: Ph.D. Student @ School of Electronic Science and Engineering, Nanjing University
+
 🔭 **Current Work**: Optoelectronic Device-Based Compute-in-Memory Architecture
+
 💡 **Personal Interests**: Investing, Quantitative Strategies, Fitness
